@@ -1,0 +1,17 @@
+{
+  "name": "Nova Codespace",
+  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "dbaeumer.vscode-eslint",
+        "esbenp.prettier-vscode",
+        "ms-azuretools.vscode-docker"
+      ]
+    }
+  },
+  "postCreateCommand": "npm ci || true",
+  "forwardPorts": [3000],
+  "workspaceFolder": "/workspaces/nova",
+  "remoteUser": "vscode"
+}
