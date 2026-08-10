@@ -1,5 +1,5 @@
-<div align="center">
-  ![x753ao.jpg](https://files.catbox.moe/x753ao.jpg)
+<p align="center">
+  <img src="https://files.catbox.moe/x753ao.jpg" alt="x753ao.jpg"/>
   <br/>
-  ![afm8iw](https://files.catbox.moe/afm8iw.png)
-</div>
+  <img src="https://files.catbox.moe/afm8iw.png" alt="afm8iw"/>
+</p>
