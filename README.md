@@ -16,4 +16,3 @@
 <div align="center">
 	<img src="https://files.catbox.moe/w9aze9.png" alt="image" />
 </div>
-```
